@@ -4,10 +4,10 @@
 **IR-Kit** is a comprehensive bash-based incident response and forensic analysis tool designed for rapid evidence collection during cybersecurity incidents. This tool automates the process of gathering critical system artifacts for forensic investigation and generates detailed HTML reports with PDF export capability.
 
 ### 🎯 Project Details
-- **University**: [Your University Name]
-- **Course**: Cybersecurity / Digital Forensics
+- **University**: [University Of Information Technology And Sciences(UITS)]
+- **Course**: Linux Programming Lab
 - **Project Type**: Bash Scripting & Digital Forensics
-- **Developed By**: Md Azhar Uddin & Sadia Akter Liza
+- **Developed By**: *Md Azhar Uddin* & *Sadia Akter Liza*
 
 ## 👨‍💻 Development Team
 | Name | Role | Contribution |
