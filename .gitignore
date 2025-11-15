@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+
+
+# Python
+__pycache__/
+
+
+# archives / outputs
+outputs/
+*.tar.gz
+*.zip
+
+
+# editor
+.vscode/
+*.swp
+
+
+# Secrets (never commit)
+secrets.env
