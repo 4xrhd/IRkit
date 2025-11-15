@@ -13,7 +13,7 @@
 | Name | Role | Contribution |
 |------|------|-------------|
 | **Md Azhar Uddin** | Project Lead | Core architecture, module development, reporting system |
-| **Sadia Akter Liza** | Co-developer | Evidence collection modules, utility functions, testing |
+| **Sadia Akter Liza** | Co-developer | Evidence collection modules, utility functions, testing |UX-UI|
 
 ## 🚀 Features
 
