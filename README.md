@@ -47,7 +47,7 @@ sudo apt-get install coreutils findutils tar gzip
 ### Installation Steps
 1. **Clone or Download the Project**
    ```bash
-   git clone [repository-url]
+   git clone [https://github.com/4xrhd/IRkit]
    cd ir-kit
    ```
 
