@@ -234,6 +234,8 @@ This project demonstrates:
 For questions or issues related to this university project:
 - Contact: **Md. Azhar Uddin** & **Sadia Akter Liza**
 - Course Instructor: **Md. Tasnin Tanvir** ~ Lecturer(UITS)~ B.Sc in CSE, Khulna University of Engineering & Technology (KUET)
+- Course Instructor: **Md. Azharul Karim Chowdhury Anik** ~Lecturer ~B.Sc. (Engg.) in CSE, Shahjalal University of Science and Technology (SUST)
+
 - Submission Date: [18-November-2025]
 
 ## 📄 License
