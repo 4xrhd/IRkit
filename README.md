@@ -1,5 +1,9 @@
 # 🔍 IR-Kit - Incident Response & Forensic Toolkit
 
+<p align="center">
+  <img src="logo.png" alt="IR-Kit Logo" width="200"/>
+</p>
+
 ## 📚 Project Overview
 **IR-Kit** is a comprehensive bash-based incident response and forensic analysis tool designed for rapid evidence collection during cybersecurity incidents. This tool automates the process of gathering critical system artifacts for forensic investigation and generates detailed HTML reports with PDF export capability.
 
